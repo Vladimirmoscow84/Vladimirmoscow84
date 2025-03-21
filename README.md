@@ -16,7 +16,6 @@
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23212121.svg?style=for-the-badge&logo=git&logoColor=red)
-![HTTP](https://img.shields.io/badge/http-%23E34F26.svg?style=for-the-badge&logo=http&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-%23212121.svg?style=for-the-badge&logo=json&logoColor=%23FF4154)
 ![Docker](https://img.shields.io/badge/docker-white.svg?style=for-the-badge&logo=docker&logoColor=blue)
 ![CI/CD](https://img.shields.io/badge/ci/cd-%23646CFF.svg?style=for-the-badge&logo=ci/cd&logoColor=white)
