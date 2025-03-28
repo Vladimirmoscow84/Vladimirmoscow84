@@ -1,4 +1,4 @@
-### Привет! Меня зовут Владимир
+### Здравствуйте! Меня зовут Владимир
 
 - Я нахожусь в поиске работы на должность backend разработчика на Go или стажировки в современной разивающейся компании
 - 17 лет проработал в Роскосмосе, прошел путь от техника до директора программы, а сейчас штурмую нвые высоты в новом направлении
@@ -18,6 +18,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23212121.svg?style=for-the-badge&logo=git&logoColor=red)
 ![JSON](https://img.shields.io/badge/json-%23212121.svg?style=for-the-badge&logo=json&logoColor=%23FF4154)
+![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-white.svg?style=for-the-badge&logo=docker&logoColor=blue)
 ![CI/CD](https://img.shields.io/badge/ci/cd-%23646CFF.svg?style=for-the-badge&logo=ci/cd&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23CC6699.svg?style=for-the-badge&logo=postrgesql&logoColor=white)
