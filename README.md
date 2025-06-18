@@ -7,7 +7,7 @@
 
 
 ### Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/vladimirmoscow) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:ccr1@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/vladimirmoscow) [![Mail](https://img.shields.io/badge/Email-red?logo=yandex&logoColor=white)](mailto:ccr1@yandex.ru)
 
 ---
 
