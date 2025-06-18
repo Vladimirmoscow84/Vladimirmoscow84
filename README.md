@@ -12,17 +12,20 @@
 ---
 
 ### &#128736; Мой стек:
-![Go](https://img.shields.io/badge/go-grey.svg?style=for-the-badge&logo=go&logoColor=blue)
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" title="PostreSQL" alt="PostreSQL" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" title="Kafka" alt="Kafka" width="60" height="60"/>&nbsp;   
+
 ![REST API](https://img.shields.io/badge/REST%20API-%23266999.svg?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23212121.svg?style=for-the-badge&logo=git&logoColor=red)
-![JSON](https://img.shields.io/badge/json-%23212121.svg?style=for-the-badge&logo=json&logoColor=%23FF4154)
-![Postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-white.svg?style=for-the-badge&logo=docker&logoColor=blue)
 ![CI/CD](https://img.shields.io/badge/ci/cd-%23646CFF.svg?style=for-the-badge&logo=ci/cd&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23CC6699.svg?style=for-the-badge&logo=postrgesql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-white.svg?style=for-the-badge&logo=linux&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![BACKEND](https://img.shields.io/badge/backend-%23E34F26.svg?style=for-the-badge&logo=backend&logoColor=white)
 
 ### Моя статистика:
