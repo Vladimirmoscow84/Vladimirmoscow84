@@ -27,11 +27,5 @@
 
 
 ### Моя статистика:
-<div>
-<a href="https://github-readme-stats.vercel.app/api?username=vladimirmoscow84&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=vladimirmoscow84&hide=contribs&show_icons=true" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirmoscow84&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladimirmoscow84&layout=compact" />
-</a>
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimirmoscow84&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimirmoscow84&layout=compact&theme=radical)
